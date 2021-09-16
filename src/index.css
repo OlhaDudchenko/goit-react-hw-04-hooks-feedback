@@ -1,0 +1,14 @@
+@import-normalize;
+
+body {
+  background-color: #1b0029;
+  background-image: url(./images/xv.png);
+  margin: 0;
+  font-family: "Lobster", cursive;
+  letter-spacing: 1.5px;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
